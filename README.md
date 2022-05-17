@@ -1,7 +1,7 @@
 <h1 align="center">I'm Cao Tuan Kiet <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/Hi.gif" width="30px"> ! </h1>
 <p align="center">
-  <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/metaverse.webp" width="30%" height="25%"/></code>
-  <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/metaverse.webp" width="30%" height="25%"/></code>
+  <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/metaverse.webp" width="40%" height="35%"/>
+  <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/blockchain_web3.png" width="40%" height="35%"/>
 </p>
 
 ## About Me🧑🏼💻
