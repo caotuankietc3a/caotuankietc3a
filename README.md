@@ -1,11 +1,8 @@
-<h1 align="center">I'm Cao Tuan Kiet <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/Hi.gif" width="30px"> ! </h1>
-<!-- <p align="center" height="30%" width="100%"> -->
-  <!-- <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/metaverse.webp" width="40%" height="100%"/> -->
-  <!-- <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/blockchain_web3.png" width="40%" height="100%"/> -->
-  <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/metaverse.gif" width="100%" height="100%"/>
+<h1 align="center">ღ 𝓘❜𝓶 𝓒𝓪𝓸 𝓣𝓾𝓪𝓷 𝓚𝓲𝓮𝓽 ⚡<img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/Hi.gif" width="30px"> ! </h1>
+<img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/metaverse.gif" width="100%" height="40%"/>
 <!-- </p> -->
 
-## About Me🧑🏼💻
+## 𝔗𝔥𝔢 𝔦𝔫𝔣𝔬𝔯𝔪𝔞𝔱𝔦𝔬𝔫 𝔞𝔟𝔬𝔲𝔱 **𝔐𝔢**
 
 <table>
   <tr>
