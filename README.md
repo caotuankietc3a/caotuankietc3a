@@ -33,53 +33,53 @@
   <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/metaverse.gif" width="200px" height="200px" style='min-width:"200px" !important;'/>
     </td>
     <td>
-  <p align="center" style='font-size: "18px"; font-weight: "bold"'>⚒️ Technologies And Languages ⚙️</p>
+  <p align="center" style='font-size: "18px"; font-weight: "bold"'>**⚒️ _Technologies_ And _Languages_ ⚙️**</p>
 
-  <p align="left">
+  <p align="center">
     <a href="https://www.javascript.com/" target="_blank"> 
-      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/html5.svg" alt="Html5" width="40" height="40"/></code> 
+      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/html5.svg" alt="Html5" width="50" height="50"/></code> 
     </a> 
     <a href="https://www.javascript.com/" target="_blank"> 
-      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/css3.svg" alt="Css3" width="40" height="40"/></code> 
+      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/css3.svg" alt="Css3" width="50" height="50"/></code> 
     </a> 
     <a href="https://www.javascript.com/" target="_blank"> 
-      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/javascript.svg" alt="JavaScript" width="40" height="40"/></code> 
+      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/javascript.svg" alt="JavaScript" width="50" height="50"/></code> 
     </a> 
     <a href="https://www.javascript.com/" target="_blank"> 
-      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/react.svg" alt="React" width="40" height="40"/></code> 
+      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/react.svg" alt="React" width="50" height="50"/></code> 
     </a> 
     <a href="https://www.javascript.com/" target="_blank"> 
-      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/nodejs.svg" alt="Nodejs" width="40" height="40"/></code> 
+      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/nodejs.svg" alt="Nodejs" width="50" height="50"/></code> 
     </a> 
     <a href="https://www.javascript.com/" target="_blank"> 
-      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/express.svg" alt="Express" width="40" height="40"/></code> 
+      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/express.svg" alt="Express" width="50" height="50"/></code> 
     </a> 
     <a href="https://www.javascript.com/" target="_blank"> 
-      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/npm.svg" alt="Npm" width="40" height="40"/></code> 
+      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/npm.svg" alt="Npm" width="50" height="50"/></code> 
     </a> 
     <a href="https://www.javascript.com/" target="_blank"> 
-      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/heroku.svg" alt="Heroku" width="40" height="40"/></code> 
+      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/heroku.svg" alt="Heroku" width="50" height="50"/></code> 
     </a> 
     <a href="https://www.javascript.com/" target="_blank"> 
-      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/cplusplus.svg" alt="Cpp" width="40" height="40"/></code> 
+      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/cplusplus.svg" alt="Cpp" width="50" height="50"/></code> 
     </a> 
     <a href="https://www.javascript.com/" target="_blank"> 
-      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/mongodb.svg" alt="Mongodb" width="40" height="40"/></code> 
+      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/mongodb.svg" alt="Mongodb" width="50" height="50"/></code> 
     </a> 
     <a href="https://www.javascript.com/" target="_blank"> 
-      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/mysql.svg" alt="Mysql" width="40" height="40"/></code> 
+      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/mysql.svg" alt="Mysql" width="50" height="50"/></code> 
     </a> 
     <a href="https://www.javascript.com/" target="_blank"> 
-      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/git.svg" alt="Git" width="40" height="40"/></code> 
+      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/git.svg" alt="Git" width="50" height="50"/></code> 
     </a> 
     <a href="https://www.javascript.com/" target="_blank"> 
-      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/github.svg" alt="Github" width="40" height="40"/></code> 
+      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/github.svg" alt="Github" width="50" height="50"/></code> 
     </a> 
     <a href="https://www.javascript.com/" target="_blank"> 
-      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/linux.svg" alt="Linux" width="40" height="40"/></code> 
+      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/linux.svg" alt="Linux" width="50" height="50"/></code> 
     </a> 
     <a href="https://www.javascript.com/" target="_blank"> 
-      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/arch_linux.webp" alt="Arch Linux" width="40" height="40"/></code> 
+      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/arch_linux.webp" alt="Arch Linux" width="50" height="50"/></code> 
     </a>
 
   </p>
