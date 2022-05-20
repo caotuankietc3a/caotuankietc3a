@@ -30,7 +30,7 @@
   <tr>
 
   <td>
-  <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/metaverse.gif" width="200" height="200" />
+  <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/metaverse.gif" width="200" height="200" min-width="200"/>
     </td>
     <td>
   <p align="center" >⚒️ Technologies And Languages ⚙️ </p>
