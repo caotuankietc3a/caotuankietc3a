@@ -14,6 +14,8 @@
 
 ✨ I want to make some applications relating to **BlockChain** and **Web3** in the near future.
 
+  </td>
+
   <td>
     <a href="https://app.daily.dev/caotuankietc3a"><img src="https://api.daily.dev/devcards/9acb35d4535f409ba258cf80e857bccb.png?r=6h1" width="300" alt="Cao Tuấn Kiệt's Dev Card"/></a>
     </td>
@@ -24,14 +26,19 @@
   <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/header.svg" width="75%"/>
 </p>
 
-<p align="left">
-<p align="right">
-sdfadf 
-sdfadf
-sd
-</p>
+<table>
+  <tr>
+
+  <td>
   <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/metaverse.gif" width="200px" height="200px"/>
-</p>
+    </td>
+    <td valign="center">
+✨ I want to make some applications relating to **BlockChain** and **Web3** in the near future.
+
+  </td>
+
+  </tr>
+  </table>
 
 ## Technologies⚙️
 
