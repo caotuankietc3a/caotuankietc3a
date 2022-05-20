@@ -30,10 +30,10 @@
   <tr>
 
   <td>
-  <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/metaverse.gif" width="200px" height="200px" style='min-width:"200px" !important;'/>
+  <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/metaverse.gif" width="200" height="200" />
     </td>
     <td>
-  <p align="center" style='font-size: "18px"; font-weight: "bold"'>**⚒️ _Technologies_ And _Languages_ ⚙️**</p>
+  <p align="center" >⚒️ Technologies And Languages ⚙️ </p>
 
   <p align="center">
     <a href="https://www.javascript.com/" target="_blank"> 
