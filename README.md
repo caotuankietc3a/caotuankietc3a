@@ -20,14 +20,11 @@
   </tr>
   </table>
 
-<p >
+<img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/header.svg" width="50%" align="center"/>
 
-<img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/metaverse.gif" width="200px" height="200px" align="left"/>
-<span>Technologies⚙️</span>
+<img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/metaverse.gif" width="200px" height="200px" align="right"/>
+## Technologies⚙️
 
-<span>Languages✍🏼</span>
+### Languages✍🏼
 
-<span>DevOps & Cloud Tools⚒️</span>
-
-  <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/header.svg" width="200px" height="200px" align="right"/>
-</p>
+### DevOps & Cloud Tools⚒️
