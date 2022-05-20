@@ -20,9 +20,14 @@
   </tr>
   </table>
 
-<img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/header.svg" width="50%" align="center"/>
+<p align="center">
+  <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/header.svg" width="50%"/>
+</p>
 
-<img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/metaverse.gif" width="200px" height="200px" align="right"/>
+<p align="right">
+  <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/metaverse.gif" width="200px" height="200px"/>
+</p>
+
 ## Technologies⚙️
 
 ### Languages✍🏼
