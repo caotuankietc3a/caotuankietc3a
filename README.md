@@ -23,11 +23,11 @@
 <p >
 
 <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/metaverse.gif" width="200px" height="200px" align="left"/>
-## Technologies⚙️
+Technologies⚙️
 
-### Languages✍🏼
+Languages✍🏼
 
-### DevOps & Cloud Tools⚒️
+DevOps & Cloud Tools⚒️
 
   <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/header.svg" width="200px" height="200px" align="right"/>
 </p>
