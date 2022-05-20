@@ -36,49 +36,49 @@
   <p align="center" font-weight="bold" font-size="30px">⚒️ Technologies And Languages ⚙️</p>
 
   <p align="center">
-    <a href="https://www.javascript.com/" target="_blank"> 
+    <a href="https://devdocs.io/html/" target="_blank"> 
       <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/html5.svg" alt="Html5" width="50" height="50"/></code> 
     </a> 
-    <a href="https://www.javascript.com/" target="_blank"> 
+    <a href="https://devdocs.io/css/" target="_blank"> 
       <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/css3.svg" alt="Css3" width="50" height="50"/></code> 
     </a> 
     <a href="https://www.javascript.com/" target="_blank"> 
       <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/javascript.svg" alt="JavaScript" width="50" height="50"/></code> 
     </a> 
-    <a href="https://www.javascript.com/" target="_blank"> 
+    <a href="https://reactjs.org/" target="_blank"> 
       <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/react.svg" alt="React" width="50" height="50"/></code> 
     </a> 
-    <a href="https://www.javascript.com/" target="_blank"> 
+    <a href="https://nodejs.org/" target="_blank"> 
       <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/nodejs.svg" alt="Nodejs" width="50" height="50"/></code> 
     </a> 
-    <a href="https://www.javascript.com/" target="_blank"> 
+    <a href="https://www.npmjs.com/package/express" target="_blank"> 
       <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/express.svg" alt="Express" width="50" height="50"/></code> 
     </a> 
-    <a href="https://www.javascript.com/" target="_blank"> 
+    <a href="https://www.npmjs.com/" target="_blank"> 
       <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/npm.svg" alt="Npm" width="50" height="50"/></code> 
     </a> 
-    <a href="https://www.javascript.com/" target="_blank"> 
+    <a href="https://www.heroku.com/" target="_blank"> 
       <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/heroku.svg" alt="Heroku" width="50" height="50"/></code> 
     </a> 
-    <a href="https://www.javascript.com/" target="_blank"> 
+    <a href="https://devdocs.io/cpp/" target="_blank"> 
       <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/cplusplus.svg" alt="Cpp" width="50" height="50"/></code> 
     </a> 
-    <a href="https://www.javascript.com/" target="_blank"> 
+    <a href="https://www.mongodb.com/" target="_blank"> 
       <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/mongodb.svg" alt="Mongodb" width="50" height="50"/></code> 
     </a> 
-    <a href="https://www.javascript.com/" target="_blank"> 
+    <a href="https://www.mysql.com/" target="_blank"> 
       <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/mysql.svg" alt="Mysql" width="50" height="50"/></code> 
     </a> 
-    <a href="https://www.javascript.com/" target="_blank"> 
+    <a href="https://git-scm.com/" target="_blank"> 
       <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/git.svg" alt="Git" width="50" height="50"/></code> 
     </a> 
-    <a href="https://www.javascript.com/" target="_blank"> 
+    <a href="https://github.com/" target="_blank"> 
       <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/github.svg" alt="Github" width="50" height="50"/></code> 
     </a> 
-    <a href="https://www.javascript.com/" target="_blank"> 
+    <a href="https://www.linux.org/" target="_blank"> 
       <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/linux.svg" alt="Linux" width="50" height="50"/></code> 
     </a> 
-    <a href="https://www.javascript.com/" target="_blank"> 
+    <a href="https://archlinux.org/" target="_blank"> 
       <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/arch_linux.webp" alt="Arch Linux" width="50" height="50"/></code> 
     </a>
 
@@ -88,7 +88,3 @@
 
   </tr>
   </table>
-
-### Languages✍🏼
-
-### DevOps & Cloud Tools
