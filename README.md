@@ -30,7 +30,7 @@
   <tr>
 
   <td>
-  <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/metaverse.gif" width="200px" height="200px" style='min-width:"200px"; max-width:"200px"'/>
+  <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/metaverse.gif" width="200px" height="200px" style='min-width:"200px" !important;'/>
     </td>
     <td>
     <p align="center" style='font-size: "18px"; font-weight: "bold"'>Technologies⚙️</p>
