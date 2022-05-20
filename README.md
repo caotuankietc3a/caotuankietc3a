@@ -21,10 +21,15 @@
   </table>
 
 <p align="center">
-  <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/header.svg" width="50%"/>
+  <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/header.svg" width="75%"/>
 </p>
 
+<p align="left">
 <p align="right">
+sdfadf 
+sdfadf
+sd
+</p>
   <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/metaverse.gif" width="200px" height="200px"/>
 </p>
 
