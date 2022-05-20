@@ -6,9 +6,9 @@
   <tr>
     <td valign="center">
       
-🎓 I am currently pursuing my **Computer Science Engineering major**.
+🎓 I am currently majoring in **Computer Science Engineering** at **Ho Chi Minh City University of Technology**.
 
-🌱 I am currently learning **Javascript, C++** and also interested in **Web Developer**.
+🌱 I currently learned **Javascript, C++** and I am also interested in **Web Developer**.
 
 🎯 My Goal is to contribute to as many **open source projects** as possible.
 
