@@ -1,9 +1,6 @@
 <h1 align="center">⚡ 𝓘❜𝓶  𝓒𝓪𝓸 𝓣𝓾𝓪𝓷 𝓚𝓲𝓮𝓽 ღ <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/Hi.gif" width="30px"> ! </h1>
-<p align="left">
-  <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/metaverse.gif" width="200px" height="200px"/>
-</p>
 
-## ☯ 𝔗𝔥𝔢 𝔦𝔫𝔣𝔬𝔯𝔪𝔞𝔱𝔦𝔬𝔫 𝔞𝔟𝔬𝔲𝔱 **𝔐𝔢** ☪
+## ☯ A𝔟𝔬𝔲𝔱 **𝔐𝔢** ☪
 
 <table>
   <tr>
@@ -22,3 +19,15 @@
     </td>
   </tr>
   </table>
+
+<p >
+
+<img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/metaverse.gif" width="200px" height="200px" align="left"/>
+## Technologies⚙️
+
+### Languages✍🏼
+
+### DevOps & Cloud Tools⚒️
+
+  <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/header.svg" width="200px" height="200px" align="right"/>
+</p>
