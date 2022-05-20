@@ -20,7 +20,7 @@
     <a href="https://app.daily.dev/caotuankietc3a"><img src="https://api.daily.dev/devcards/9acb35d4535f409ba258cf80e857bccb.png?r=6h1" width="300" alt="Cao Tuấn Kiệt's Dev Card"/></a>
     </td>
   </tr>
-  </table>
+</table>
 
 <p align="center">
   <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/header.svg" width="75%"/>
@@ -30,10 +30,10 @@
   <tr>
 
   <td>
-  <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/metaverse.gif" width="200" height="200" min-width="200"/>
+  <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/metaverse.gif" width="100%" height="auto"/>
     </td>
     <td>
-  <p align="center" >⚒️ Technologies And Languages ⚙️ </p>
+  <p align="center" >⚒️ Technologies And Languages ⚙️</p>
 
   <p align="center">
     <a href="https://www.javascript.com/" target="_blank"> 
