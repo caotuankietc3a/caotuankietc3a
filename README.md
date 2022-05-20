@@ -33,7 +33,8 @@
   <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/metaverse.gif" width="100%" height="auto"/>
     </td>
     <td>
-  <p align="center" >⚒️ Technologies And Languages ⚙️</p>
+  <!-- <p align="center" >⚒️ Technologies And Languages ⚙️</p> -->
+  ⚒️** Technologies And Languages **⚙️
 
   <p align="center">
     <a href="https://www.javascript.com/" target="_blank"> 
