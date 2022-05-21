@@ -34,7 +34,7 @@
     </td>
     <td>
   <p align="center" font-weight="bold" font-size="30px">⚒️ Technologies And Languages ⚙️</p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&size=35&duration=2000&color=D22B7B&background=3136438A&multiline=true&width=500&height=60&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=35&duration=2000&color=D22B7B&background=3136438A&multiline=true&width=500&height=60&lines=The+five+boxing+wizards+jump+quickly" alt="">
 
   <p align="center">
     <a href="https://devdocs.io/html/" target="_blank"> 
