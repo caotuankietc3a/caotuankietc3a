@@ -33,8 +33,8 @@
   <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/metaverse.gif" width="100%" height="auto"/>
     </td>
     <td>
-  <p align="center" font-weight="bold" font-size="30px">⚒️ Technologies And Languages ⚙️</p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=35&duration=2000&color=D22B7B&background=3136438A&multiline=true&width=500&height=60&lines=The+five+boxing+wizards+jump+quickly" alt="">
+  <!-- <p align="center" font-weight="bold" font-size="30px"></p> -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=30&duration=2500&color=ADBAC7&background=3136438A&multiline=true&width=600&height=60&lines=⚒️+Technologies+And+Languages+⚙️" alt="">
 
   <p align="center">
     <a href="https://devdocs.io/html/" target="_blank"> 
