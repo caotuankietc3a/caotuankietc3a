@@ -87,5 +87,8 @@
   </td>
 
   </tr>
-  </table>
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=caotuankietc3a)
+</table>
+
+## Graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=caotuankietc3a&theme=dracula&hide_border=true)
