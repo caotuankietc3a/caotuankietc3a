@@ -99,4 +99,4 @@
 
 ## ✨GitHub Contribution Graph :
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=caotuankietc3a&theme=react-dark&hide_border=true&custom_title=My Contribution Graph)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=caotuankietc3a&theme=react-dark&hide_border=true)
