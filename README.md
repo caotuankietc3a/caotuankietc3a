@@ -34,7 +34,7 @@
     </td>
     <td>
   <!-- <p align="center" font-weight="bold" font-size="30px"></p> -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=30&duration=2500&color=ADBAC7&background=22272E&center=true&vCenter=true&multiline=true&width=600&height=60&lines=⚒️+Technologies+And+Languages+⚙️" alt="">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=20&duration=2500&color=ADBAC7&background=22272E&center=true&vCenter=true&multiline=true&width=600&height=60&lines=⚒️+Technologies+And+Languages+⚙️+✨" alt="">
 
   <p align="center">
     <a href="https://devdocs.io/html/" target="_blank"> 
