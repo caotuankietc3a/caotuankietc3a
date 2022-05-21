@@ -96,7 +96,7 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=caotuankietc3a&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="caotuankietc3a" /> 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=caotuankietc3a&show_icons=true&theme=tokyonight&show_border=true" />
   <img width="100"src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/bg.png">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=caotuankietc3a&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&background=04030FEE&sideLabels=C3DD5F&fire=DD0D27&ring=DD4477&currStreakNum=8CDD4A&sideNums=DD8750&currStreakLabel=DD59D5" alt="caotuankietc3a" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=caotuankietc3a&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&background=141414&sideLabels=C3DD5F&fire=DD0D27&ring=2a3bb8&currStreakNum=8CDD4A&sideNums=DD8750&currStreakLabel=DD59D5" alt="caotuankietc3a" />
   <img width="100"src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/bg.png">
 </p>
 
