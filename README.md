@@ -95,7 +95,9 @@
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=caotuankietc3a&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="caotuankietc3a" /> 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=caotuankietc3a&show_icons=true&theme=tokyonight&show_border=true" />
+  <img width="200px"src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/bg.png">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=caotuankietc3a&theme=great-gatsby&date_format=M%20j%5B%2C%20Y%5D&show_icons=true&show_border=true" alt="caotuankietc3a" />
+  <img width="200px"src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/bg.png">
 </p>
 
 ## ✨GitHub Contribution Graph :
