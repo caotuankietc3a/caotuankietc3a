@@ -1,8 +1,8 @@
 <body>
-<p align="center" font-size="130px !important">⚡ 𝓘❜𝓶  𝓒𝓪𝓸 𝓣𝓾𝓪𝓷 𝓚𝓲𝓮𝓽 ღ 
+<div align="center" font-size="130px">⚡ 𝓘❜𝓶  𝓒𝓪𝓸 𝓣𝓾𝓪𝓷 𝓚𝓲𝓮𝓽 ღ 
   <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/Hi.gif" width="30px"> ! 
   <img src= "https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
-</p>
+</div>
 
 ## ☯ A𝔟𝔬𝔲𝔱 **𝔐𝔢** ☪
 
