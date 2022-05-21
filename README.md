@@ -92,9 +92,9 @@
 ## ✨GitHub Stats :
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=caotuankietc3a&show_icons=true&theme=tokyonight&show_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=caotuankietc3a&show_icons=true&theme=tokyonight&show_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=caotuankietc3a&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&show_icons=true&show_border=true" alt="caotuankietc3a" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=caotuankietc3a&show_icons=true&theme=great-gatsby&locale=en&layout=compact" alt="caotuankietc3a" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=caotuankietc3a&show_icons=true&theme=great-gatsby&locale=en&layout=compact" alt="caotuankietc3a" /> 
 </p>
 
 ## ✨GitHub Contribution Graph :
