@@ -79,7 +79,7 @@
       <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/linux.svg" alt="Linux" width="50" height="50"/></code> 
     </a> 
     <a href="https://archlinux.org/" target="_blank"> 
-      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/arch_linux.webp" alt="Arch Linux" width="50" height="50"/></code> 
+      <code><img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/arch_linux.png" alt="Arch Linux" width="50" height="50"/></code> 
     </a>
 
   </p>
@@ -88,3 +88,4 @@
 
   </tr>
   </table>
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=caotuankietc3a)
