@@ -2,7 +2,8 @@
 <p align="center">  
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ADBAC7&fontStyle=samakaran&text=★彡 𝓒𝓪𝓸 𝓣𝓾𝓪𝓷 𝓚𝓲𝓮𝓽 彡★&height=100&fontSize=40&animation=fadeIn&desc=⚡caparies ღ&descAlignY=95&descAlign=83.4&descSize=20"/>
   <img src= "https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
-<!-- <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=EE64F7&fontStyle=samakaran&text=Cao%20Hoang%20Kiet&height=150&fontSize=60&animation=fadeIn&desc=(ɔ◔︣‿◔︣)ɔ%20❤%20%202k2%20%20❤%20(ˆ‿ˆԅ)&descAlignY=95&descAlign=83.4&descSize=20"/> -->
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=20&duration=2500&color=ADBAC7&background=22272E&center=true&vCenter=true&multiline=true&width=600&height=60&lines=⚒️+Technologies+And+Languages+⚙️+✨" alt="Technologies and Languages">
 </p>
 
 ## ☯ A𝔟𝔬𝔲𝔱 **𝔐𝔢** ☪ <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/Hi.gif" width="30px">
@@ -11,7 +12,7 @@
   <tr>
     <td valign="center">
       
-🎓 I am currently majoring in **Computer Science Engineering** at **Ho Chi Minh City University of Technology**.
+🎓 I am currently majoring in **Computer Science Engineering** at **Ho Chi Minh University of Technology**.
 
 🌱 I currently learned **Javascript, C++** and I am also interested in **Web Developer**.
 
