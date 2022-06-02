@@ -6,7 +6,7 @@
   <img src= "https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
 </p>
 
-## ☯ A𝔟𝔬𝔲𝔱 **𝔐𝔢** ☪ <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/Hi.gif" width="30px">
+## ☯ A𝔟𝔬𝔲𝔱 **𝔐𝔢** ☪ <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/Hi.gif" width="30">
 
 <table>
   <tr>
