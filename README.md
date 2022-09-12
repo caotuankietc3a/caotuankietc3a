@@ -106,8 +106,8 @@
   <img width="100"src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/bg.png">
 </p>
 
-## ✨GitHub Contribution Graph :
-
-![GitHub Activity Graph](https://github-profile-caotuankietc3a.herokuapp.com/graph?username=caotuankietc3a&theme=react-dark&hide_border=true&color=ff9e64&point=f54e70)
-
+<!-- ## ✨GitHub Contribution Graph : -->
+<!---->
+<!-- ![GitHub Activity Graph](https://github-profile-caotuankietc3a.herokuapp.com/graph?username=caotuankietc3a&theme=react-dark&hide_border=true&color=ff9e64&point=f54e70) -->
+<!---->
 </body>
