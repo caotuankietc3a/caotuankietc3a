@@ -1,7 +1,7 @@
 <body>
 <p align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ADBAC7&fontStyle=samakaran&text=𝓒𝓪𝓸 𝓣𝓾𝓪𝓷 𝓚𝓲𝓮𝓽&height=100&fontSize=40&animation=fadeIn&desc=⚡caparies ღ&descAlignY=95&descAlign=83.4&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ADBAC7&text=★彡 𝓒𝓪𝓸 𝓣𝓾𝓪𝓷 𝓚𝓲𝓮𝓽 彡★&height=100&fontSize=40&animation=fadeIn&desc=⚡caparies ღ&descAlignY=95&descAlign=83.4&descSize=20"/>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=15&duration=2500&color=ADBAC7&center=true&vCenter=true&multiline=true&width=600&height=60&lines=𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻𝓲𝓷𝓰+𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻" alt="Engineering Developer">
   <img src= "https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
