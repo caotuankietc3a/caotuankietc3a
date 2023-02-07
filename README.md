@@ -4,8 +4,7 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=15&duration=2500&color=ADBAC7&center=true&vCenter=true&multiline=true&width=600&height=60&lines=𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻𝓲𝓷𝓰+𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻" alt="Engineering Developer">
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=adbac7&text=Cao Tuan Kiet&height=100&fontSize=40&desc=Only%20Use%20Text&descAlignY=75&descAlign=60)
-<img src= "https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
+  <img src= "https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
 
 </p>
 
@@ -109,8 +108,8 @@
   <img width="100"src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/bg.png">
 </p>
 
-<!-- ## ✨GitHub Contribution Graph : -->
-<!---->
-<!-- ![GitHub Activity Graph](https://github-profile-caotuankietc3a.herokuapp.com/graph?username=caotuankietc3a&theme=react-dark&hide_border=true&color=ff9e64&point=f54e70) -->
-<!---->
+## ✨GitHub Contribution Graph :
+
+![GitHub Activity Graph](https://https://github-readme-activity-graph.cyclic.app/graph?username=caotuankietc3a&theme=react-dark&hide_border=true&color=ff9e64&point=f54e70)
+
 </body>
