@@ -1,9 +1,12 @@
 <body>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ADBAC7&fontStyle=samakaran&text=Cao Tuan Kiet&height=100&fontSize=40&animation=fadeIn&desc=caparies&descAlignY=95&descAlign=83.4&descSize=20">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=adbac7&fontStyle=samakaran&text=Cao Tuan Kiet&height=100&fontSize=40&animation=fadeIn&desc=caparies&descAlignY=95&descAlign=83.4&descSize=20">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=15&duration=2500&color=ADBAC7&center=true&vCenter=true&multiline=true&width=600&height=60&lines=𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻𝓲𝓷𝓰+𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻" alt="Engineering Developer">
-  <img src= "https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
+
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Transparent&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60)
+<img src= "https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
+
 </p>
 
 ## ☯ A𝔟𝔬𝔲𝔱 **𝔐𝔢** ☪ <img src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/gifs/Hi.gif" width="30">
