@@ -98,7 +98,7 @@
   </tr>
 </table>
 
-## ✨GitHub Stats :
+## ✨ GitHub Stats :
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=caotuankietc3a&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="caotuankietc3a" /> 
@@ -108,8 +108,8 @@
   <img width="100"src="https://github.com/caotuankietc3a/caotuankietc3a/blob/main/images/bg.png">
 </p>
 
-## ✨GitHub Contribution Graph :
+## ✨ GitHub Contribution Graph :
 
-![GitHub Activity Graph](https://https://github-readme-activity-graph.cyclic.app/graph?username=caotuankietc3a&theme=react-dark&hide_border=true&color=ff9e64&point=f54e70)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=caotuankietc3a&theme=react-dark&hide_border=true&color=ff9e64&point=f54e70)
 
 </body>
